@@ -1,0 +1,14 @@
+{
+  "name": "printer-doctor",
+  "owner": {
+    "name": "Mike Goeke"
+  },
+  "plugins": [
+    {
+      "name": "printer-doctor",
+      "source": "./plugins/printer-doctor",
+      "description": "3D printer troubleshooting and performance tuning, driven by a fleet file describing your actual hardware"
+    }
+  ],
+  "description": "3D printing diagnostics and tuning, driven by a fleet file describing your actual hardware"
+}

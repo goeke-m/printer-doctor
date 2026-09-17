@@ -1,0 +1,8 @@
+{
+  "name": "printer-doctor",
+  "description": "Diagnose 3D print defects and tune print quality against a description of your actual machines, so advice matches your hardware instead of a generic printer",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mike Goeke"
+  }
+}
